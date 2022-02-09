@@ -2,7 +2,7 @@
 
 API Sistema de Pedidos
 
-Projeto do curso Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL, MongoDB
+Projeto do curso Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL, MongoDB (Nélio Alves)
 
 <p align="center">
         <a href="https://www.linkedin.com/in/all-an/">
