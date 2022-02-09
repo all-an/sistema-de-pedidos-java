@@ -4,6 +4,10 @@ API Sistema de Pedidos
 
 Projeto do curso Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL, MongoDB (Nélio Alves)
 
+- Java 11
+- Spring Boot
+- H2 Database
+
 <p align="center">
         <a href="https://www.linkedin.com/in/all-an/">
         <img align="center" width="830" height="540"  src="/img/diagrama-de-classes-parte1.png" />
