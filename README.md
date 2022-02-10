@@ -4,9 +4,13 @@ API Sistema de Pedidos
 
 Projeto do curso Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL, MongoDB (Nélio Alves)
 
+### Tecnologias utilizadas:
+
 - Java 11
 - Spring Boot
 - H2 Database
+
+### Alguns diagramas e detalhes do projeto:
 
 <p align="center">
         <a href="https://www.linkedin.com/in/all-an/">
